@@ -11,9 +11,9 @@
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="true">
+          <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="الاختبار التطبيقي لمقرر تطبيقات الحاسب في التعليم - الفرقة الثالثة" />
+              <option name="title_text" value="Form1" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
